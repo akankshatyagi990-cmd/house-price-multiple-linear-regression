@@ -1,0 +1,18 @@
+Multiple Linear Regression Equation
+===================================
+Intercept: 41454.991630
+
+Coefficients:
+          feature   coefficient
+        area_sqft    188.242211
+         bedrooms  18067.953461
+        bathrooms  11701.082633
+        age_years  -1814.905451
+ distance_city_km  -3267.602667
+   parking_spaces  15038.568619
+   location_Rural -43124.352476
+location_Suburban  -2721.601004
+   location_Urban  45845.953480
+
+Equation:
+price_usd = 41454.99 + 188.24 * area_sqft + 18067.95 * bedrooms + 11701.08 * bathrooms - 1814.91 * age_years - 3267.60 * distance_city_km + 15038.57 * parking_spaces - 43124.35 * location_Rural - 2721.60 * location_Suburban + 45845.95 * location_Urban

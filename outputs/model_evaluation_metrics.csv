@@ -1,0 +1,5 @@
+metric,value
+mean_absolute_error,15117.792266682494
+mean_squared_error,318331788.8773543
+root_mean_squared_error,17841.8549729941
+r2_score,0.9904141617481836

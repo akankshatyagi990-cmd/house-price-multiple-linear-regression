@@ -1,0 +1,10 @@
+feature,coefficient,effect_on_price
+location_Urban,45845.95348,positive
+bedrooms,18067.953461,positive
+parking_spaces,15038.568619,positive
+bathrooms,11701.082633,positive
+area_sqft,188.242211,positive
+age_years,-1814.905451,negative
+location_Suburban,-2721.601004,negative
+distance_city_km,-3267.602667,negative
+location_Rural,-43124.352476,negative
